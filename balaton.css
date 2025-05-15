@@ -115,3 +115,6 @@ blockquote{
     font-style: italic;
     text-align: center;
 }
+#sportmuveszet .bal,
+#sportmuveszet .jobb 
+  width: 50%; /* 6:6 arány
